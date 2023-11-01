@@ -1,6 +1,6 @@
-language: node_js
+language:*node_js
 node_js:
-- 0.1
+-*0.1
 before_script:
 - npm install -g grunt-cli
 - npm install -g bower
@@ -8,4 +8,4 @@ before_script:
 - bower install
 notifications:
   email:
-    - jarid@firstopinion.co
+    - jarid@firstopinion.co 
