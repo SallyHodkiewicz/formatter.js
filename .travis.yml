@@ -8,4 +8,4 @@ before_script:
 - bower install
 notifications:
   email:
-    - jarid@firstopinion.co 
+    - jarid@firstopinion.co  
